@@ -5,9 +5,11 @@
     "brunch": "^2.0.0",
     "clean-css-brunch": ">= 1.0 < 1.8",
     "css-brunch": ">= 1.0 < 1.8",
+    "history": "^1.17.0",
     "javascript-brunch": ">= 1.0 < 1.8",
     "react": "^0.14.5",
     "react-bootstrap": "^0.28.1",
+    "react-router": "^1.0.3",
     "reflux": "^0.3.0",
     "uglify-js-brunch": ">= 1.0 < 1.8"
   }
