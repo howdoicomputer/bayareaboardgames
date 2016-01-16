@@ -37,6 +37,7 @@ defmodule Bayareaboardgames.Mixfile do
      {:phoenix_live_reload, "~> 1.0", only: :dev},
      {:gettext, "~> 0.9"},
      {:cowboy, "~> 1.0"},
+     {:poison, "1.5.2"},
      {:httpoison, "~> 0.8.0"}]
   end
 
