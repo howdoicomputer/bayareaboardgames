@@ -37,7 +37,7 @@ config :phoenix, :stacktrace_depth, 20
 config :bayareaboardgames, Bayareaboardgames.Repo,
   adapter: Ecto.Adapters.Postgres,
   username: "postgres",
-  password: "postgres",
+  password: "",
   database: "bayareaboardgames_dev",
   hostname: "localhost",
   pool_size: 10

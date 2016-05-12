@@ -30,7 +30,7 @@ defmodule Bayareaboardgames.Mixfile do
   #
   # Type `mix help deps` for examples and options.
   defp deps do
-    [{:phoenix, "~> 1.1.1"},
+    [{:phoenix, "~> 1.1.4"},
      {:phoenix_ecto, "~> 2.0"},
      {:postgrex, ">= 0.0.0"},
      {:phoenix_html, "~> 2.3"},
@@ -38,7 +38,7 @@ defmodule Bayareaboardgames.Mixfile do
      {:gettext, "~> 0.9"},
      {:cowboy, "~> 1.0"},
      {:poison, "1.5.2"},
-     {:httpoison, "~> 0.8.0"}]
+     {:httpoison, "~> 0.8.3"}]
   end
 
   # Aliases are shortcut or tasks specific to the current project.
